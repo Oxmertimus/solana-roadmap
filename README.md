@@ -14,4 +14,4 @@ A lot of this work benefited from people stress-testing assumptions and pointing
 
 There’s still plenty to improve. Some parts are intentionally conservative, and others will change as usage patterns evolve. But the core idea remains the same: keep it understandable, keep it boring where possible, and don’t overfit to short-term trends.
 
-If you’re reading this and using the code, feedback is always welcome — especially when something feels harder than it should be.
+If you’re reading this and using the code, feedback is always welcome — especially when something feels harder than it should be. 
